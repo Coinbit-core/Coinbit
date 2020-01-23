@@ -11,7 +11,7 @@
 Start date: 2nd Jan 2020 23:56:00 UTC (Genesis block time)
 Genesis hash: 0x0000000e13c5bf36c155c7cb1681053d607c191fc44b863d0c5aef6d27b8eb8f
 Block height as of 19th Jan 2020: 0 (all blocks that were mined for testing have been deleted)
-Units mined as of 19th Jan 2020: 0 XDS
+Units mined Jan 2020: 0 XDS
 Max supply: 21,000,000 XDS
 Block reward: 50 XDS (halves every 210,000 blocks)
 Consensus: PoW + PoS
