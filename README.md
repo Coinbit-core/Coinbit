@@ -1,4 +1,4 @@
-# XDS - A Bitcoin-derived minable cryptocurrency with concurrent PoS
+# CTB - A Bitcoin-derived minable cryptocurrency with concurrent PoS
 
 *This is to announce/report the start of a new free and open-source decentralized cryptocurrency, owned and maintained only and fully by its hopefully emerging and growing world-wide community of contributors. This is not a project claimed by a company, founders, VIP's, lead developers or any people that claim a special role. There are no brands or already-reserved accounts. Not even a name has been chosen for this cryptocurrency, it's up to the community to agree on one. For practical purposes, a preliminary coin symbol was chosen (XDS) which may be kept or changed.*
 
